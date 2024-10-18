@@ -1,0 +1,7 @@
+name: Eavesdropper
+version: '${project.version}'
+main: com.simondmc.eavesdropper.Eavesdropper
+api-version: '1.21'
+authors: [SimonDMC]
+description: Adds spyware to Minecraft
+website: simondmc.com
